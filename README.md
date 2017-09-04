@@ -14,3 +14,8 @@ This library requires a working FFMpeg install. You will need FFMpeg binary to u
         ->setInput('path/to/your/audio-file')
         ->setOutput('path/to/otput-file')
         ->convert();
+        
+## Useful links
+[PHP-FFMpeg - library to convert video/audio files](https://github.com/PHP-FFMpeg/PHP-FFMpeg "PHP-FFMpeg")
+
+[php-exec-command - simple php command executor](https://github.com/PHP-FFMpeg/PHP-FFMpeg "Simple php command executor")
