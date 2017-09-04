@@ -18,4 +18,4 @@ This library requires a working FFMpeg install. You will need FFMpeg binary to u
 ## Useful links
 [PHP-FFMpeg - library to convert video/audio files](https://github.com/PHP-FFMpeg/PHP-FFMpeg "PHP-FFMpeg")
 
-[php-exec-command - simple php command executor](https://github.com/PHP-FFMpeg/PHP-FFMpeg "Simple php command executor")
+[php-exec-command - simple php command executor](https://github.com/pastuhov/php-exec-command "Simple php command executor")
