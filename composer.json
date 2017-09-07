@@ -1,0 +1,10 @@
+{
+  "name": "allngth/FFmpeg-audio",
+  "type": "library",
+  "description": "Audio converter.",
+  "keywords": ["speech", "audio", "ffmpeg", "php"],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0"
+  }
+}
