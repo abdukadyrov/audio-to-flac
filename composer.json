@@ -1,5 +1,5 @@
 {
-  "name": "allngth/FFmpeg-audio",
+  "name": "allngth/ffmpeg-audio",
   "type": "library",
   "description": "Audio converter.",
   "keywords": ["speech", "audio", "ffmpeg", "php"],
