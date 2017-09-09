@@ -9,7 +9,13 @@
     "php"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/allngth/ffmpeg-audio",
   "require": {
     "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "FFmpegAudio": "src"
+    }
   }
 }
