@@ -2,11 +2,14 @@
   "name": "allngth/ffmpeg-audio",
   "type": "library",
   "description": "Audio converter.",
-  "keywords": ["speech", "audio", "ffmpeg", "php"],
+  "keywords": [
+    "speech",
+    "audio",
+    "ffmpeg",
+    "php"
+  ],
   "license": "MIT",
   "require": {
     "php": ">=7.0"
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
