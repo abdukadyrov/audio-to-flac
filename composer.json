@@ -14,8 +14,13 @@
     "php": ">=5.0"
   },
   "autoload": {
-    "psr-0": {
-      "FFmpegAudio": "src"
+    "psr-4": {
+      "allngth\\FFmpegAudio\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
     }
   }
 }
